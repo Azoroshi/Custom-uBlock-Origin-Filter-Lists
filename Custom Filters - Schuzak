@@ -337,3 +337,4 @@ $image,object,third-party,domain=2ch.net|ime.nu
 
 !--Custom Filters--
 @@mail.google.com^$elemhide
+##*[id="cookiebar"]
