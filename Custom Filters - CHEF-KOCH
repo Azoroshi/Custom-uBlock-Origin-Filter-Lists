@@ -244,7 +244,7 @@
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
-##div[class*="Ad"]
+!##div[class*="Ad"]
 ##div[class*="DARTad"]
 ##div[class*="OUTBRAIN"]
 ##div[class*="_dart"]
@@ -1379,7 +1379,7 @@
 /eraffe_ad.
 /esel.js
 /fake-ad-
-/favicon.ico$image,third-party,domain=~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com
+!/favicon.ico$image,third-party,domain=~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com
 /files/ads/*
 /files/adv/*
 /fileupload/werbung/*
