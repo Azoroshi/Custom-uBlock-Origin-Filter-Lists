@@ -695,7 +695,7 @@ google.com*/buzz
 ||*?amp_*=*&usqp=*$document,important
 ||*?fbclid$document,important
 ||*?gclid$document,important
-||*?utm_*=$document,important
+!||*?utm_*=$document,important
 ||*?yclid$document,important
 
 t.co/*?amp=1$document
