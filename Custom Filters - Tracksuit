@@ -689,7 +689,7 @@ google.com*/buzz
 ||*&amp_*=*&usqp=*$document,important
 ||*&fbclid$document,important
 ||*&gclid$document,important
-||*&utm_*=$document,important
+!||*&utm_*=$document,important
 ||*&yclid$document,important
 ||*?=__cf_chl_jschl_tk__=$document,important
 ||*?amp_*=*&usqp=*$document,important
