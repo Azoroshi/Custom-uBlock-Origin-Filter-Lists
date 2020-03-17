@@ -396,7 +396,7 @@
 ##a[href*="/speedclicks/"]
 ##a[href*="/track/traffic.php?"]
 ##a[href*="/traffic.php?c="]
-!##a[href*="sponsor"]
+##a[href*="sponsor"]
 ##a[href*="utm_medium=ad"]
 ##a[href*="utm_source=ad"]
 ##a[href*="/?vpab0"]
