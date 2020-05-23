@@ -420,7 +420,7 @@ display_ads.php
 *&advId*
 *&ban=*
 *&tema=clikundr*
-*=ad&*
+!*=ad&*
 *=ad-*
 *=ad_*
 *=ads-*
