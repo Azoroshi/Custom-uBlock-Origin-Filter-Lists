@@ -7,4 +7,6 @@ This is here to serve as an archive of filters which I personally use, edit, and
 
 Firefox does not currently allow you to import filter lists from a local file, so just copy the raw url.
 
+I do not use all of these filters. Using all of these at once would be wildly inefficient.
+
 If you stumble across these filters and want to use one, go ahead. It's what they're here for.
