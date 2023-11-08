@@ -500,12 +500,10 @@ counter.24log.de
 counter.24log.fr
 customer.api.drift.com
 data.reactandshare.com
-drift.com
 enrichment.api.drift.com
 f.convertkit.com
 get.xclick24.com
 getpushmonkey.com
-googleadapis.l.google.com
 in.hotjar.com
 init.cedexis-radar.net
 ip-s.nuggad.net
@@ -538,7 +536,6 @@ www.24log.es
 www.24log.fr
 www.24log.it
 !yt3.ggpht.com
-
 .insites.
 .metriweb.be
 .adhese.be
@@ -562,8 +559,6 @@ www.24log.it
 .krxd.
 .ethnio.
 .ethn.io
-.quantserve.
-.scorecardresearch.
 .atwola.
 cs.pebblemedia.be
 messagent.vummail.be
@@ -678,13 +673,11 @@ admonkey.dapper.net
 .richrelevance.com
 .rfihub.com
 .ru4.com
-
 google.com*/lh/ajaxlog?
 google.com*/uds/stats?
 google.com*/bin/stats?
 google.com*/log?
 google.com*/buzz
-
 ||*&=__cf_chl_jschl_tk__=$document,important
 ||*&amp_*=*&usqp=*$document,important
 ||*&fbclid$document,important
@@ -697,9 +690,7 @@ google.com*/buzz
 ||*?gclid$document,important
 !||*?utm_*=$document,important
 ||*?yclid$document,important
-
 t.co/*?amp=1$document
-
 /piwik.js
 ||addtoany.com^$script
 ||adform.net^
@@ -732,7 +723,6 @@ t.co/*?amp=1$document
 ||statcounter.com^$script
 ||stats.wp.com^$script
 ||webgozar.ir^
-
 tlx.3lift.com
 fd.3.cn
 168logger.com
@@ -751,7 +741,6 @@ ad13.adfarm1.adition.com
 c1.adform.net
 certify-js.alexametrics.com
 cdn.ampproject.org
-aka-cdn-ns.adtech.de
 static.airserve.net
 heartbeat.airserve.net
 code3.adtlgc.com
@@ -764,7 +753,6 @@ adtag.cc
 tag.audience.acpm.fr
 c.amazon-adsystem.com
 tag.aticdn.net
-tag.audience.acpm.fr
 cdn.adsafeprotected.com
 surveygizmobeacon.s3.amazonaws.com
 sanoma-346822-hdb.adomik.com
@@ -856,7 +844,6 @@ www.googletagservices.com
 www.googletagmanager.com
 www.google-analytics.com
 aglobal.go.com
-imasdk.googleapis.com
 js.gumgum.com
 !fonts.gstatic.com
 geodb.api.tamedia.ch
@@ -871,16 +858,12 @@ go.giga-abs.de
 pagead.googlesyndication.com
 pagead0.googlesyndication.com
 pagead1.googlesyndication.com
-pagead2.googlesyndication.com
 encrypted-tbn.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 inradbox.goly.club
 kolom.goly.club
-vars.hotjar.com
-script.hotjar.com
-static.hotjar.com
 healte.de
 formel1.de.intellitxt.com
 de.ioam.de
@@ -920,7 +903,6 @@ loadercdn.com
 click.ns2.lnglobal.pl
 ns2.lnglobal.pl
 lnglobal.pl
-s240.meetrics.net
 s236.meetrics.net
 cdn.m6r.eu
 de-gmtdmp.mookie1.com
@@ -949,7 +931,6 @@ newsletter.madfinger.com
 1ryzas42x65e2oosia40bgli.wpengine.netdna-cdn.com 
 www.nerfherdersolo.com
 www.nickles.de
-ip-s.nuggad.net
 wcs.naver.net
 hb.nexage.com
 js-agent.newrelic.com
@@ -969,7 +950,6 @@ cdn.onthe.io
 wetteronline-d.openx.net
 us.onscroll.com
 amplify.outbrain.com
-cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn4.optimizely.com
@@ -1006,7 +986,6 @@ www.remintrex.com
 ads.rubiconproject.com
 cdn.reverso.net
 flapi2.rubiconproject.com
-ads.rubiconproject.com
 flapi1.rubiconproject.com
 tap-secure.rubiconproject.com
 rebrand.ly
@@ -1036,7 +1015,6 @@ a.teads.tv
 www.tisoomi-services.com
 cdn.tsyndicate.com
 technical-service.net
-www.technical-service.net
 dmp.theadex.com
 tcr.tynt.com
 pressan-is.teljari.is
@@ -1046,7 +1024,6 @@ cdn.treasuredata.com
 rd.tabelog.com
 ssl.cdn.turner.com
 static.tacdn.com
-ophan.theguardian.com
 www.tracking-kmms.de
 e.top4top.net
 f.top4top.net
@@ -1104,7 +1081,6 @@ coxmt.com
 cedato.com
 danmarketplace.com
 e1.emxdgt.com
-emxdgt.com
 freewheel.tv
 getpolymorph.com
 improvedigital.com
@@ -1112,10 +1088,8 @@ indexexchange.com
 loopme.com
 memevideoad.com
 stroeer.com
-sovrn.com
 thetimmedia.com
 ssp.ynxs.io
-
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1132,7 +1106,6 @@ a.ads2.msn.com
 a.rad.msn.com
 ac3.msn.com
 activity.windows.com
-ad.doubleclick.net
 adl.windows.com
 adnexus.net
 adnxs.com
@@ -1140,7 +1113,6 @@ ads.msn.com
 ads1.msads.net
 ads1.msn.com
 aidps.atdmt.com
-aka-cdn-ns.adtech.de
 alpha.telemetry.microsoft.com
 apac1.notify.windows.com.akadns.net
 apps.skype.com
@@ -1198,7 +1170,6 @@ bn4sch101123110.wns.windows.com
 bn4sch101123202.wns.windows.com
 bn4sch102110124.wns.windows.com
 browser.events.data.microsoft.com
-bs.serving-sys.com
 by3301-a.1drv.com
 by3301-c.1drv.com
 by3301-e.1drv.com
@@ -1438,7 +1409,6 @@ live.rads.msn.com
 m.adnxs.com
 m.hotmail.com
 mobile.events.data.microsoft.com
-mobile.pipe.aria.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
 msedge.net
 msftncsi.com
@@ -1515,7 +1485,6 @@ vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 vortex.data.glbdns2.microsoft.com
-vortex.data.microsoft.com
 watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
@@ -1633,7 +1602,6 @@ www.watson.ppe.telemetry.microsoft.com
 www.watson.telemetry.microsoft.com
 www.watson.telemetry.microsoft.com.nsatc.net
 www.wes.df.telemetry.microsoft.com
-
 102.112.207.net
 103bees.com
 111proxy.com
@@ -1676,24 +1644,18 @@ adclk.com-ssl.biz
 adcounter.theglobeandmail.com
 addfreestats.com
 ad.dmm.com
-addthis.com
 ad.exelate.com
 adfarm1.adition.com
 adgebra.co.in
 adjustablelatitudes.com
-adjust.com
-adjust.io
 adk2x.com
 adlik.akavita.com
 adlog.flurry.com
 admax.quisma.com
-adnxs.com
-adobedtm.com
 adobetag.com
 adperfect.com
 ad.pxlad.io
 adriadigital.si
-adsafeprotected.com
 adsafe.solocpm.com
 adsby.klikki.com
 ads.clicmanager.fr
@@ -1747,8 +1709,6 @@ analytics.cnd-motionmedia.de
 analytics.convertlanguage.com
 analytics.disneyinternational.com
 analytics.donaukurier.de
-analytics.edgekey.net
-analytics.edgesuite.net
 analytics.epublica.de
 analytics.hosting24.com
 analytics.ip-profis.de
@@ -1778,7 +1738,6 @@ apeachsky.com
 api.wipmania.com
 api.yontoo.com
 apmebf.com
-apsalar.com
 aptrk8.com
 aptrk9.com
 arnostat.nl
@@ -1794,8 +1753,6 @@ audit.median.hu
 autosurfextreme.com
 avdpro.ru
 awaps.net
-az361816.vo.msecnd.net
-az512334.vo.msecnd.net
 backlinkbuild.com
 bam.nr-data.net
 banner.testberichte.de
@@ -1806,11 +1763,8 @@ benbengi.com
 bestexpressrx.com
 bestliveshoppingsecure.com
 besucherstatistiken.de
-betrad.com
 b.gnavi.co.jp
 bizographics.com
-bkrtx.com
-bluekai.com
 bn.uol.com.br
 bookltd10.info
 bookltd11.info
@@ -1869,7 +1823,6 @@ click.kmindex.ru
 click.mediapaper.biz
 clickmeter.com
 click.pgs03.com
-click.plista.com
 click.readme.ru
 clickrp.ziyu.net
 clicks.adengage.com
@@ -1882,7 +1835,6 @@ click.sockinga.info
 click.spiritemail.info
 clicks.pureleads.com
 clickstootrack.com
-clicktale.net
 clicktrack1.com
 clicktrack2.com
 clicktracks.com
@@ -1900,7 +1852,6 @@ cnt.trafficstars.com
 columbatz.com
 cominiustz.com
 commuternh.com
-comscore.com
 conantz.com
 controller.4seeresults.com
 conversionruler.com
@@ -1982,7 +1933,6 @@ cqcounter.com
 crazyegg.com
 creationsrewards.net
 crimsonspace.com
-crsspxl.com
 crumengm.com
 ctsde01.wiredminds.de
 d.adseainnovation.com
@@ -1998,7 +1948,6 @@ digits.com
 directtrack.com
 distralytics.com
 d.kapanlaginetwork.com
-dmp.theadex.com
 dmtracker.com
 dmtry.com
 dnelist.com
@@ -2012,7 +1961,6 @@ dpbolvw.net
 dw.com.com
 dyntracker.com
 dyntracker.de
-dzc-metrics.mzstatic.com
 easy-hit-counter.com
 easyhitcounters.com
 ecobagse.institute
@@ -2067,16 +2015,13 @@ etyper.com
 euhiocialis.net
 eurocounter.com
 euroranking.de
-events.kaloo.ga
 event.ui-portal.de
-evidon.com
 evilrank.de
 excelenceinfo.com
 exosmichk.com
 ext.host-tracker.com
 extreme-dm.com
 extremetracking.com
-eyeota.net
 faireagle.com
 fastclick.net
 fastearning.net
@@ -2095,11 +2040,8 @@ fireclick.com
 firstobsessions.com
 firsttshare.us
 flagcounter.com
-flex.msn.com
 flipora.com
 flyway.in
-foresee.com
-foreseeresults.com
 fpctraffic2.com
 freeonlineusers.com
 freindlyaquantance.com
@@ -2108,7 +2050,6 @@ front.facetz.net
 fruitflan.com
 gagnifie.com
 gamblingtraffic.ru
-gameanalytics.com
 g-bot.net
 gdmconvtrck.com
 generalmission.com
@@ -2120,19 +2061,14 @@ getitjpi.info
 getproxy5.info
 get-yourrevenue.com
 ggo.directrev.com
-gigya.com
 gl12strk.com
 glclk.about.com
 gm-link.com
 gnspf.com
 goclick.com
 goldhdporn.com
-googleadservices.com
 google-analitycs.ru
-google-analytics.com
 googlesyndication.com
-googletagmanager.com
-googletagservices.com
 gostats.de
 go.trafficshop.com
 greatdealmachine.com
@@ -2180,7 +2116,6 @@ informiert-sein.com
 insanetrack.com
 interactiveofficial.com
 inxtracking01.inx1and1.de
-ioam.de
 ip2map.com
 ipcounter.de
 ipcount.net
@@ -2210,7 +2145,6 @@ komplett-analytics.com
 komtrack.com
 kono-research.de
 kqzyfj.com
-krxd.net
 lapdancesecrets.com
 lctrk.com
 lds.lenovomm.com
@@ -2226,7 +2160,6 @@ liveinternet.ru
 liveshoppingsecure.com
 liveshoppingsecuresite.com
 loadus.exelator.com
-localytics.com
 log.atns.de
 logs.spilgames.com
 loomia.com
@@ -2241,9 +2174,7 @@ mailtrack.me
 manageindustry.club
 masnbc.com
 maxonclick.com
-maxymiser.net
 mclick.org
-mc.yandex.ru
 media1first.com
 media-clic.com
 mediaplex.com
@@ -2262,12 +2193,10 @@ metrics.tiscover.com
 metrics.toptenreviews.com
 mimomimoform.com
 mitmeisseln.de
-mixpanel.com
 mltracker.webtraffic.com.br
 mltracking.com
 mnet-ad.net
 mnetads.net
-mobileapptracking.com
 mochibot.com
 monetizingpartners.com
 moreusers.info
@@ -2280,7 +2209,6 @@ mpunlock.com
 m.quantcount.com
 mr-rank.de
 mrtrack.dada.net
-msedge.net
 mshft.com
 msplinks.com
 mtrack.port25251.com
@@ -2317,7 +2245,6 @@ nspmotion.com
 observare.de
 ok.internetmedia.si
 omediatrack.de
-omtrdc.net
 onesperfecthealth.com
 onlineziyaretci.com
 openclick.com
@@ -2327,9 +2254,6 @@ opentag.qubitproducts.com
 opentrack1.com
 opentrack2.com
 opentracker.net
-ophan.co.uk
-ophan.theguardian.com
-optimizely.com
 optoutasap.com
 orkutoxy.com
 our.affiliatetracking.net
@@ -2362,7 +2286,6 @@ pixel.invitemedia.com
 pixel.quantcount.com
 pjntracker.com
 planetenzauber.com
-playtomic.com
 please-click.net
 p.nexac.com
 pocitadlo.cz
@@ -2371,7 +2294,6 @@ policefirm1.com
 pornarea51.com
 power-cl1cks.com
 p.pxl2015x1.com
-pre.footprintpredict.com
 presage.io
 preved.tut.by
 progressiveemail.com
@@ -2408,7 +2330,6 @@ red.tingrinter.com
 registrygoodtimes.com
 remotrk.com
 removal-services.org
-rem-track.bild.de
 responsetrack.net
 retdube.net
 revsci.net
@@ -2461,7 +2382,6 @@ secure-jp.imrworldwide.com
 secure-nz.imrworldwide.com
 secure-sg.imrworldwide.com
 secure-uk.imrworldwide.com
-secure-us.imrworldwide.com
 secure-za.imrworldwide.com
 sedotracker.de
 sender.megapopads.com
@@ -2489,7 +2409,6 @@ server-uk.imrworldwide.com
 server-us.imrworldwide.com
 service.avail.net
 serving-sys.com
-settings-win.data.microsoft.com
 sexad.net
 sextracker.be
 sextracker.com
@@ -2536,7 +2455,6 @@ stat.bei-uns.de
 statbrain.com
 statcounter.com
 static.audienceinsights.net
-static.chartbeat.com
 static.zanox.com
 statistik.i22.de
 stats4all.com
@@ -2551,7 +2469,6 @@ stats.reinvigorate.net
 stats.searchtrack.net
 stat.stars.ru
 stats.welt.de
-stats.wordpress.com
 stats.wp.com
 stattrack.0catch.com
 stopemails.info
@@ -2566,10 +2483,7 @@ tapefailure.com
 tbkbdgbpleehjltfysqvfnm.com
 tck-10408-53.pl
 tc.tradetracker.net
-telemetry.appex.bing.net
-telemetry.microsoft.com
 telemetry.microsoft.com.nsatc.net
-telemetry.urs.microsoft.com
 telstra.imrworldwide.com
 tentaculos.net
 thecounter.com
@@ -2596,7 +2510,6 @@ track2.securedvisit.com
 track.4smobi.com
 track.accountreg.com
 track.adfocus.pl
-track.adform.net
 track.adrevolver.com
 track.adtual.com
 track.affiliate-b.com
@@ -2818,12 +2731,8 @@ visualwebsiteoptimizer.com
 vncovers.com
 voicefive.com
 voluumtrk.com
-vortex-bn2.metron.live.com.nsatc.net
-vortex-cy2.metron.live.com.nsatc.net
-vortex-win.data.microsoft.com
 wayjump.com
 webanalyse.ronet.info
-webanalytics.btelligent.net
 webcounterfox.com
 webhits.de
 webleads-tracker.com
@@ -2840,7 +2749,6 @@ web-track.telekom-dienste.de
 webtrekk.com
 webtrekk.de
 webtrekk.net
-webtrends.com
 webtrendslive.com
 webtrendssdc.roadrunnerrecords.com
 web-visor.com
@@ -2878,20 +2786,15 @@ zs2jtrk.com
 zsrpc.net
 zummis.de
 zx.azurewebsites.net
-
 insights-collector.gog.com
-
 www.youtube.com/api/stats/watchtime^$important
 www.youtube.com/api/stats/playback^$important
-
 adbroker.mp.dse.microsoft.com
 browser.pipe.aria.microsoft.com
 c.live.com
 conf.ext.go-tellm.com
 cdn.c-i.as
 cdn.movad.net
-cdn.speedcurve.com
-cdn-a.yieldlove.com
 cdn-b.yieldlove.com
 cdn-c.yieldlove.com
 cdn.emetriq.de
