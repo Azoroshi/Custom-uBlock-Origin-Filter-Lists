@@ -5,16 +5,10 @@
 !
 ! Title: Custom Filters - Blockzilla
 ! Homepage: https://blockzilla.jimdo.com/ 
-!
 ! Blockzilla by zpacman >>>>>
-!
 ! A powerful list for Adblock Plus.
 ! Block ads. Block trackers. Better web.
-!
-! Blockzilla by zpacman >>>>>
-!
 ! Ad and Tracker Blocking >>>>>
-!
 &ad_size=
 &adformat=
 &adunit=
@@ -650,9 +644,7 @@ images/ads/
 ||zedo.com^
 ||ziccardia.com^
 ||zqtk.net^
-!
 ! Cloudfront >>>>>
-!
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/*&res=
 ||cloudfront.net/*/sp.js
@@ -663,9 +655,7 @@ images/ads/
 ||d3tglifpd8whs6.cloudfront.net^
 ||d8rk54i4mohrb.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
-!
 ! $third-party >>>>>
-!
 -tracking.$third-party
 .amazonaws.com/*/buzzing/$third-party
 /c.gif?$third-party
@@ -699,9 +689,7 @@ images/ads/
 ||ws.amazon.*/widgets/$third-party
 ||yandex.ru^$third-party
 ||zergnet.com^$third-party
-!
 ! $popup >>>>>
-!
 &popunder=$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 /banner/*$popup
 /popunder.$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
@@ -740,9 +728,7 @@ images/ads/
 ||whatsyourflower.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||wonderlandads.com^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
 ||yx0.pw^$popup,image,media,object,object-subrequest,other,ping,script,stylesheet,subdocument,websocket,xmlhttprequest
-!
 ! Add on Domains (Blocking) >>>>>
-!
 /banner/*$domain=flaticon.com
 /banners/*$domain=thedailysheeple.com
 /collect?$domain=calameo.com|wikihow.com
@@ -759,9 +745,7 @@ _banner.$domain=youtube.com
 ||stats.$domain=pandora.com|paypal.com
 ||t.*.com/$domain=cinemablend.com|paypal.com
 ||tags.$domain=news.com.au
-!
 ! Ad Element Hiding >>>>>
-!
 ###AUI_A9AdsMiddleBoxTop
 ###Ad160x600_0_adchoice
 ###DartAd300x250
@@ -946,9 +930,7 @@ wikipedia.org###centralNotice
 yahoo.com##.Feedback
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
-!
 ! Add on Domains (Element Hiding) >>>>>
-!
 acidcow.com##DIV[style="float:none;margin:0px 0 0px 0;text-align:center;"]
 advfn.com##IFRAME[id$="widget"]
 all-free-download.com##DIV[class$="banner"]
@@ -974,9 +956,7 @@ wired.com##DIV[class*="banner"]
 yahoo.com##DIV[id*="-upsell-"]
 yahoo.com##LI[id^="ad-"]
 youtube.com##DIV[class*="-ads-"]
-!
 ! Exceptions (Website Functionality) >>>>>
-!
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.demdex.net/$script,domain=foxnews.com|globaltv.com
@@ -1010,6 +990,5 @@ youtube.com##DIV[class*="-ads-"]
 @@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
 @@||s.youtube.com/api/stats/playback?
 @@||stats.$domain=wetter.info
-
 cardgames.io#@#DIV[id*="-ads"]
 photographyblog.com#@#DIV[id^="taboola-"]
