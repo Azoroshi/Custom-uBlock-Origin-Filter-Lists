@@ -2,23 +2,13 @@
 ! Checksum: ZFKEv2dlu9F3o005U2yt+g
 !
 ! Updated: 01 July 2016 (09:21:04 AM)
-!
 ! This list expires after 5 days
-!
 ! License: http://creativecommons.org/licenses/by/3.0/
-!
-!
 !*******************************
 !********** Adversity **********
-!*******************************
-!
 ! Title: Custom Filters - Adversity
-!
-!
 ! ---------- Short Term Rules ----------
-!
 ||uworkin.com/public/images/motherpedia.
-!
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
@@ -2049,7 +2039,6 @@
 /728x90.
 /728x90_
 /930x64_$domain=thessdreview.com
-/?affiliate_$popup
 /?affiliate_$popup
 /?file=ads&
 /?getsrc=*&ref=&url
@@ -4492,7 +4481,6 @@ ninemsn.com.au###cat_hl_6783486
 ninemsn.com.au###cudoDiv
 ninemsn.com.au###msnhd_div3
 ninemsn.com.au###shopping
-ninemsn.com.au###shopping
 ninemsn.com.au###spons_left
 ninemsn.com.au###ysm
 ninemsn.com.au##.ad-banner-top-wrapper.module
@@ -6585,7 +6573,6 @@ zynga.com##.noticebox
 ||nonstoppartner.net^
 ||noowmedia.com^$popup
 ||npmpecd.com^$popup
-||npmpecd.com^$popup
 ||nster.net^$third-party,domain=~nster.com
 ||nudepad.com/partners/
 ||nudepad.com^*/juicy
@@ -6775,7 +6762,6 @@ zynga.com##.noticebox
 ||raasnet.com^
 ||radarurl.com^
 ||rankpay.com^
-||rapidallfreez.com/images/download.
 ||rapidallfreez.com/images/download.
 ||rapidtrend.com/iframe/if.php?q=
 ||ratepoint.com^
@@ -7262,7 +7248,6 @@ zynga.com##.noticebox
 ||ws.amazon.*/widgets/q?$third-party
 ||wunderloop.net^
 ||www.rapidallfreez.com/images/downloadcloud.
-||www.rapidallfreez.com/images/downloadcloud.
 ||xbitlabs.com^*/sponsored
 ||xcams.com^*&promo=
 ||xclicks.net^
@@ -7383,15 +7368,11 @@ zynga.com##.noticebox
 ~totalprosports.com,~zap2it.com###ad728
 ~uscbookstore.com,~allthetests.com###advertising
 ~vancouversun.com##.adwrapper
-!
 ! ---------- Google Custom Search ----------
-!
 ##.ch[onclick="ga(this,event)"]
 google.com##TABLE[style="border: 1px solid #0000CC"]
 google.com##TABLE[width="70%"][cellpadding="0"][style="border-bottom: 1px solid #ccc"]
-!
 ! ---------- Whitelists ----------
-!
 @@.com/ads/$domain=6waves.com|aopschools.com|avclub.com|gamepro.com|reporting.evanscycles.com|retailmenot.com
 @@.com/ads/video-ad/$domain=videosift.com,object-subrequest
 @@.com/advertising/$object,domain=flashgames247.com
@@ -7661,9 +7642,7 @@ google.com##TABLE[width="70%"][cellpadding="0"][style="border-bottom: 1px solid 
 @@||yimg.com/mi/ywa.js$domain=nydailynews.com|cybergeddon.yahoo.com|help.yahoo.com
 @@||zshare.net/ads.js?-*&ad_url=
 ||adblockdetector.com^
-!
 ! ---------- DoubleClick Whitelists ----------
-!
 @@.cbs.com/pacific/Response.jsp?id=1*=http://ad.doubleclick.net/click*;partner=cbs;vid=$object-subrequest
 @@.cbs.com^*/ad.doubleclick.net/adx/request.php?/$object-subrequest
 @@||ad.au.doubleclick.net/pfadx/$object_subrequest,domain=tvnz.co.nz
@@ -7687,9 +7666,7 @@ google.com##TABLE[width="70%"][cellpadding="0"][style="border-bottom: 1px solid 
 @@||linkbucks.com/scripts/generated/$script,domain=linkbucks.com
 @@||musicfire.googlecode.com/files/advertisement.js$domain=freeallmusic.net
 @@||pubads.g.doubleclick.net/gampad/ads?$script,domain=lightinthebox.com|yfrog.com
-!
 ! ---------- http://share-links.biz/_sxdjo6l5w8ci ----------
-!
 @@&ad_size=300x250&section=$subdocument,domain=share-links.biz
 @@||ad.yieldmanager.com/clk?$subdocument,third-party,domain=share-links.biz
 @@||ad.yieldmanager.com/imp?Z=300x250&s=*share-links.biz
