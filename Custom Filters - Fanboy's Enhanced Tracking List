@@ -334,7 +334,6 @@ _webtrends_
 _wtBase.js
 _wtbaseV2.
 _wtInit.js
-!
 ! Snippet Tracking (Filtering)
 ! sythe.org
 sythe.org##+js(acis, $, adblocker)
@@ -350,7 +349,6 @@ anandtech.com##+js(acis, _gaq)
 anandtech.com##+js(acis, _qevents)
 anandtech.com##+js(acis, g_o)
 anandtech.com##+js(acis, tmntag)
-! arstechnica.com
 arstechnica.com##+js(acis, DQ)
 arstechnica.com##+js(acis, gtm.start)
 arstechnica.com##+js(acis, w.CN)
@@ -429,14 +427,10 @@ wccftech.com##+js(acis, window.NewzmateConfig)
 /favicon.ico$image,third-party,domain=~streameast.live|~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~microsoft.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com|~jit.si
 ! push notifications test filter
 ##.open.pushModal
-!
 ! CDN scripts (Ad and Tracking scripts) Test filters.
-!
 /cdn-cgi/pe/bag2?*atrk.js
 /cdn-cgi/pe/bag2?*pagead2.googlesyndication.com
-!
 ! ---------- Cookie/Subscription Checking ------
-!
 ###issuem-leaky-paywall-articles-remaining-nag
 ###issuem-leaky-paywall-articles-zero-remaining-nag
 ###pianoMediaBar
@@ -489,7 +483,6 @@ nautil.us###adpayload
 ||syncronex.com^$third-party
 ||unlock-protocol.com^$third-party
 ||wallkit.net^$third-party
-||wallkit.net^$third-party
 ||washingtonpost.com^*/pwapi-proxy.min.js
 ! UBo-specific blocks
 fastcompany.com##+js(cookie-remover.js, xbc)
@@ -506,7 +499,6 @@ spectator.co.uk##+js(cookie-remover.js, /^/)
 spectator.co.uk##.MeterBanner-module__banner
 stripes.com###pelcro-app
 stripes.com##+js(cookie-remover, /^/)
-stripes.com##+js(cookie-remover, /^/)
 stripes.com##.pelcro-prefix-view
 theatlantic.com###paywall
 theatlantic.com##+js(cookie-remover.js, articleViews)
@@ -516,14 +508,12 @@ time.com##+js(cookie-remover.js, time_meter_v2)
 wired.com##+js(aopw, journeyCompilerGateway)
 wired.com##+js(cookie-remover, /^/)
 womenshealthmag.com##+js(cookie-remover, /^/)
-!
 .gsqx2fkx78q.$script,domain=goal.com
 .itzgqjhqnhp.$script,domain=atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 .ksskpix78ekwivzmgiw.$script,domain=goal.com
 .tgtuboyux78.$script,domain=thoughtcatalog.com
 .yfgttqf.$script,domain=atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 ! ---------- Personal Filters ------
-!
 ###topstuff > #wmxmsg
 ##.spnf_ticker
 ##iframe[src^="https://isupportjournalism.com/"][style]
@@ -556,9 +546,7 @@ wolframalpha.com###headerad-pro
 wolframalpha.com###sidebar
 wolframalpha.com###subpod_zoom
 ||thepiratebay.org^$script
-!
 ! Adblock Warnings
-!
 ##.adbmodal-cloudflare-app-container
 ##CLOUDFLARE-APP[app-id="no-adblock"]
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
@@ -576,9 +564,7 @@ thenewcivilrightsmovement.com##.block-alert
 unlimited-recipes.com#@##adsense
 wowhead.com##[data-was-parent="true"]
 youporn.com###adblock_1
-!
 ! ---------- 1st party blocking rules ----------
-!
 |http://$image,third-party,domain=extremetech.com
 ||53.com/resources/js/wt.js
 ||aarp.net/etc/aarp/statics/global/js/mbox.
@@ -684,9 +670,7 @@ youporn.com###adblock_1
 ||yimg.com/uq/syndication/yad.js
 ||yimg.com^*/g-d-min.js
 ||yimg.com^*/gemini.js
-!
 ! ---------- 3rd party blocking rules ----------
-!
 ||5min.com/flashcookie/
 ||5min.com/Handlers/FiveminCookieCache.ashx
 ||algorithmia.com^$third-party
@@ -786,10 +770,7 @@ youporn.com###adblock_1
 ||widgets.trustedshops.com^$third-party
 ||wurfl.io^$third-party
 ||ywxi.net^$third-party,domain=~mcafee.com|~mcafeesecure.com
-!
-!
 !--------- Unsorted Rules --------
-!
 ||freestat.hu^$third-party
 ||midphase.com^*/img.pl?$third-party
 ||mystats.nl^$third-party
@@ -800,9 +781,7 @@ youporn.com###adblock_1
 ||statsector.hu^$third-party
 ||tracknet.twyn.com^
 ||webcount.finn.no^
-!
 !---------- French Trackers ----------
-!
 ||be2.com/tracker;
 ||beead.fr^$third-party
 ||clickintext.net^$third-party
@@ -813,16 +792,10 @@ youporn.com###adblock_1
 ||tracking.presence-pc.com^
 ||tracking.tomsguide.fr^
 ||veoxa.com^
-!
 !---------- Dutch Trackers ------------
-!
 ||letsstat.nl^$third-party
-!
 !---------- Taiwan Trackers ------------
-!
-!
 !---------- German Trackers ------------
-!
 .de/log/?
 .de/pstat/
 .de/stat/
@@ -839,10 +812,8 @@ youporn.com###adblock_1
 ||serverkompetenz.net/cpx.php?$third-party
 ||trafficcenter.de^$third-party
 ||trk.newtention.net^
-!
 !---------- Anti Adblock & Anti Adblock Tracking ------
 ! These filters are for websites tracking and monitoring adblock users
-!
 /abp_detection/*
 /adbd/*$xmlhttprequest,~third-party
 /adbdetect.
@@ -1074,7 +1045,6 @@ foxnews.com,foxbusiness.com,thehill.com##+js(acis, JSON.stringify, instanceof)
 ! https://www.philips.com/a-cs/global-country-selector
 ! Various philips regions 
 @@/js/philips/utilities/showads.js$script,~third-party
-!
 ||1movies.to^*/vast.js
 ||cloudfront.net/abw.js
 ||sqweb.com^$third-party
@@ -1087,8 +1057,6 @@ alphahistory.com##.the_champ_sharing_container
 @@||easylist.club/ados.js$script
 @@||easylist.club/popunder*.js$script
 @@||oload.site^$generichide
-!
-!
 @@||cloudflare.com/ajax/libs/fuckadblock/$script,domain=inmanga.com|solarmoviez.ru|loadvid.online|solarmovie.watch|solarmoviesc.com
 @@||googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=teknomatch.com|mufasi.ga|sportspf.com|e-glossa.it|makeuseof.com|syriancivilwarmap.com|rockfile.co|techsolutiontips.com|yalujailbreak.net|avoiderrors.com|fileflares.com|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=homebank.free.fr|e-glossa.it|teknomatch.com|mufasi.ga|syriancivilwarmap.com|makeuseof.com|yalujailbreak.net|sportspf.com|rockfile.co|fileflares.com|techsolutiontips.com|avoiderrors.com|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
@@ -1106,7 +1074,6 @@ getfreshcloud.xyz##.banner-captcha
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38676
 @@$generichide,~third-party,domain=myl.li|mylink.how|mylink.love|mylink.me.uk|mylink.st
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=myl.li|mylink.how|mylink.love|mylink.me.uk|mylink.st
-! wccftech.com
 ||wccftech.com/*.js?ts=$script
 ! mundodoandroidapk.com,mundodroidgames.com
 ! https://github.com/ryanbr/fanboy-adblock/issues/603
@@ -1259,7 +1226,6 @@ dailybreeze.com,sbsun.com,santacruzsentinel.com,siliconvalley.com,chicoer.com,ti
 eskago.pl###mpc_cookie_intro
 !todaysparent.com
 todaysparent.com##.daac-desktop-notice
-! animefever.tv
 @@||animefever.tv/themes/app/static/js/adsbygoogle.js
 ! wcvb.com
 wcvb.com##.ad-leaderboard
@@ -1354,7 +1320,6 @@ gosugamers.net###footerWrapper
 @@||inbox.com^$image,domain=pipocas.tv
 @@||promote.pair.com^$image,domain=pipocas.tv
 @@||yahoo.com^$image,domain=finalservers.net|rule34hentai.net|yalujailbreak.net|linkneverdie.com|sznpaste.net|linkdrop.net|freeomovie.com|android-zone.ws|cloudwebcopy.com|wowebook.org|animes-mangas-ddl.net|pipocas.tv
-!
 ! Test filters to block popups
 /\.cloudfront\.net/\?.*[a-zA-Z0-9]{5,16}/$subdocument,script,third-party,domain=~amazon.com|~lemediatv.fr
 ! /\.cloudfront\.net\/[\w\/\-.+]{90,}/$script,third-party,domain=~amazon.com
@@ -1366,7 +1331,6 @@ gosugamers.net###footerWrapper
 ! Ad inject 
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div.post-body > [class][zoompage-fontsize]
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div[class][zoompage-fontsize] > img[src]
-!
 @@||iwatchgot.$generichide
 @@||iwatchseries.$generichide
 @@||swatchseries.to^$generichide
@@ -1469,20 +1433,14 @@ emedicinehealth.com##.social-section
 /\:\/\/[a-z0-9]{5,26}\.com\/[0-9]{7}\.html?/$third-party,popup
 /\:\/\/[a-z0-9]{5,32}\.(bid|com)\/[0-9]{2,9}\.css$/$third-party,stylesheet
 /\:\/\/[a-z0-9]{5,32}\.(bid|com)\/[0-9A-Za-z]{2,9}\.(html?|css|js|aspx?|asp?).*[0-9]{10}/$third-party,script,stylesheet
-!
 ! 13.32.222. seen on http://gorillavid.in/
 /\:\/\/[a-z]{4,12}\.com\/[\w\/\-.+]{160,}/$subdocument,third-party,script
 ||adblockers-ns.servicebus.windows.net^$third-party
-!
 !---------- Anti Adblock Warnings ------
-!
 ! Generic whitelists used for checks
 @@||d3ujids68p6xmq.cloudfront.net^$script
 @@||doubleclick.net/favicon.ico?*ad$image
-!
 ! Elements hiding by a generichide 
-!
-!
 ! watchseries
 swatchseries.to##tr.download_link_sponsored
 ! fastly
@@ -1504,7 +1462,6 @@ twitch.tv##+js(json-prune, /^(?X-TV-TWITCH-AD)$/)
 twitch.tv##+js(json-prune, /^(?X-TV-TWITCH-AD.*)$/)
 twitch.tv##+js(json-prune, /^(X-TV-TWITCH-AD)$/)
 twitch.tv##+js(json-prune, /^X-TV-TWITCH-AD.*/)
-twitch.tv##+js(json-prune, /^X-TV-TWITCH-AD/)
 twitch.tv##+js(json-prune, /^X-TV-TWITCH-AD/)
 twitch.tv##+js(json-prune, X-TV-TWITCH-AD-AD-FORMAT)
 twitch.tv##+js(json-prune, X-TV-TWITCH-AD-ROLL-TYPE)
@@ -1935,7 +1892,6 @@ slate.com##.strapline__social
 ! terradrift.com
 terradrift.com##.footer-social-wrap
 terradrift.com##.td-header-menu-social
-terradrift.com##.td-header-menu-social
 terradrift.com##.td-post-sharing-bottom
 terradrift.com##.td-post-sharing-top
 ! gamecopyworld.eu
@@ -1955,7 +1911,6 @@ cs-fundamentals.com###adBlockerAlert
 ! prevention.com
 @@||prevention.com^*ad$script
 ! distrowatch.com
-! 
 ! themeslide.com
 @@||themeslide.com^$generichide
 themeslide.com##[id^="bsac-"]
@@ -2002,7 +1957,6 @@ wordsense.eu##.cc_banner
 wordsense.eu##[data-ad-client]
 ! eurogamer.net,rockpapershotgun.com,vg247.com
 @@||amazon-adsystem.com^*/getads.js$domain=eurogamer.net|rockpapershotgun.com|vg247.com
-!
 @@||techradar.com^$generichide
 techradar.com##.buttons-social
 techradar.com##.inbody__newsletter
@@ -2134,7 +2088,6 @@ mlive.com##.module__ad-wide
 mlive.com##.revenue-display
 mlive.com##.social_sidebar
 ! westeros.org
-||sovrnlabs.net^$third-party
 ! hackintosh.zone / hackintosh.computer
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
 @@||adclixx.net^$script,domain=hackintosh.zone|hackintosh.computer
@@ -2595,11 +2548,8 @@ jbzdy.pl##.topv
 parenting.pl##.exitintent
 ! Russian
 @@||overclockers.ru^$generichide
-!
 ! Test filter
-!
 ||quantcast.mgr.consensu.org^$subdocument
-!
 ! Intl Specific elements hiding
 abczdrowie.pl###WP-cookie-info
 albanian.tv##.social-profile-icons
@@ -2645,7 +2595,6 @@ tsa-algerie.com##.template-footer__cookies
 tvregionalna24.pl##.diablo-placeholder
 tvtropes.org##.social-foot
 tvtropes.org##.social-item
-! 
 ! Warnings
 ###ad-blocker-popup
 ###adblock-message
@@ -2706,18 +2655,14 @@ weather.com##.wx-social-share-ls-wrapper
 xkorean.net###inplayer
 xkorean.net##.thr-rcol
 xkorean.net##a[href*="&aff_id"]
-!
 ! ---------- Whitelisting rules ----------
-!
 ! test filter for google/gpt
 @@||googletagservices.com/tag/js/gpt.js$domain=watchme.co.nz|nfl.com|aviationweek.com|tmz.com|goibibo.com|gamespot.com|gry.pl|whosampled.com|zdnet.com|thewrap.com|expansion.com|hardware.info|techrepublic.com|abczdrowie.pl|playrust.io|v3.co.uk|wired.com|ebaumsworld.com|pocketnow.com|cityam.com|computerworlduk.com|cwtv.com|forbes.com|independent.co.uk|techworld.com|my5.tv|ocregister.com|phoronix.com|realtor.com|seahawks.com|wwe.com
 ||googletagmanager.com/ns.html$third-party
 ||googletagservices.com/tag/js/gpt.js$third-party
 ||marfeelcache.com/*.googletagservices.com/tag/js/gpt.js
-!
 ! Test Mining rule
 /([0-9]{1,3}\.){3}[0-9]{1,3}.\/proxy$/$script,websocket,third-party
-!
 @@/cdn-cgi/pe/bag2?*pagead2.googlesyndication.com$domain=forwardprogressives.com
 @@/coremetrics.js$domain=odcdn.com|potterybarn.com|potterybarnkids.com|westelm.com|williams-sonoma.com
 @@/mbox-configuration.$script
