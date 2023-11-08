@@ -219,11 +219,9 @@ facebook.com#div(style*=height: 58px;)
 nordichardware.com#table(width=80%)
 tomshardware.com#EMBED(TYPE=application/x-shockwave-flash)
 
-
 http://*.overture.com/*
 http://de*.myspace.com/*
 http://rad.msn.com/ADSAdClient
-
 ! Text Ads
 #*(id=adWrapper)
 #*(id=adsense_leaderboard_1)
@@ -505,7 +503,6 @@ acaiblast4free.com#body
 acaifacts.org#body
 acaiguide.com#body
 acaireviewed.org#body
-acaiberryzone.com#body
 acairoots.com#body
 acaitrials.com#body
 acaiwow.com#body
