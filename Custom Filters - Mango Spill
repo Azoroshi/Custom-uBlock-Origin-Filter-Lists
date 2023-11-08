@@ -151,7 +151,6 @@ yts/swfbin/player-vfl*/ad*.swf
 ###rightAdsBanner
 ##.above-player
 ##.ad
-##.adsbygoogle
 ##.float-ads-left
 ##.float-ads-right
 ##.float-ck
@@ -195,13 +194,11 @@ yts/swfbin/player-vfl*/ad*.swf
 ###adblock-msg
 ###adblock-notice
 ###adblock-overlay
-###adblock-wrapper
 ###adblockDetect
 ###adblock__container
 ###adblock_detected
 ###adblock_message
 ###adblock_popup
-###adblock_screen
 ###adblocker
 ###adblocker_announce
 ###adblocker_message
@@ -217,8 +214,6 @@ yts/swfbin/player-vfl*/ad*.swf
 ###anti_adblock
 ###check_ad_block
 ###detectadblock
-###detection-block
-###detection-block-overlay
 ###dom_adblock
 ###fnAdblockingOverlay
 ###galepro-core-adb-enabled
@@ -256,9 +251,7 @@ yts/swfbin/player-vfl*/ad*.swf
 ##.adblockInfo
 ##.adblockOverlay
 ##.adblock__container
-##.adblock_detector
 ##.adblock_enabled
-##.adblock_floating_message
 ##.adblock_msg
 ##.adblock_popup_warning
 ##.adblockalert
@@ -267,7 +260,6 @@ yts/swfbin/player-vfl*/ad*.swf
 ##.adbwarning
 ##.adcontent
 ##.adisclaimer
-##.adsbygoogle
 ##.b-blockadblock
 ##.counterAdblocks
 ##.deadblocker-header-bar
@@ -1252,7 +1244,6 @@ display_ads.php
 */ad2/*js*
 */ad2/*php*
 */adbanner.js*
-*/adbot.*
 */adclient.163.com/*
 */adcode.hkddm.com/*
 */adcode/*
@@ -1261,13 +1252,11 @@ display_ads.php
 */adfile/*
 */adifm_*
 */adimage.bokee.com/*
-*/adimages/*
 */adimg.163.com/*
 */adimg/*
 */adjs/*.js*
 */adlog/*
 */adpic/*
-*/adpics/*
 */adrotator.*
 */ads.js*
 */ads.php*
@@ -1286,7 +1275,6 @@ display_ads.php
 */adsview.*
 */adtop/*.js*
 */adunion/*
-*/adv.*
 */adv760.js*
 */advall.js*
 */advcode/*
