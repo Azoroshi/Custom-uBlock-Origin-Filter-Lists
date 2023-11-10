@@ -1,6 +1,6 @@
 ! Title: Custom Filters - uBlock Filters Plus
-# License: https://creativecommons.org/licenses/by-sa/4.0/
-# Homepage: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus
 
 ###AdsByCurseBanner
 ###NotificationUpgradeWin81and7NonSupport
@@ -322,7 +322,7 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 ||zeroredirect2.com^
 ||zinturax.com^
 
-# Courtesy of @jo2dan23
+! Courtesy of @jo2dan23
 ##a[href^="http://wct.link/click"]
 .net/s.gif?
 .net/track?$~object
@@ -437,8 +437,8 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 ||zappos.com^*/uedata?
 ||zykko.com^$third-party
 
-# Filters partially taken out of EasyList and modified to make use of strict blocking.
-# "EasyList" by "The EasyList authors (https://easylist.adblockplus.org/)" (License: https://easylist-downloads.adblockplus.org/COPYING)
+! Filters partially taken out of EasyList and modified to make use of strict blocking.
+! "EasyList" by "The EasyList authors (https://easylist.adblockplus.org/)" (License: https://easylist-downloads.adblockplus.org/COPYING)
 &link_type=offer$document
 &popunder=$document
 &program=revshare&$document
