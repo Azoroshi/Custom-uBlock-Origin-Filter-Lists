@@ -1,7 +1,7 @@
 ! Title: Custom Filters - MinerBlock Filters
-# https://github.com/xd4rker/MinerBlock
+! https://github.com/xd4rker/MinerBlock
 
-# --[ Wildcard blocking ]------------------------------
+! --[ Wildcard blocking ]------------------------------
 
 *://*/*cryptonight.wasm
 *://*/*deepMiner.js
@@ -33,7 +33,7 @@
 *://*/*bitrix/js/main/core/core_tasker.js*
 *://*/*bitrix/js/main/core/core_loader.js*
 
-# --[ Specific blocking ]------------------------------
+! --[ Specific blocking ]------------------------------
 
 *://load.jsecoin.com/*
 *://*.coin-hive.com/lib*
@@ -552,7 +552,7 @@
 *://*.hostingcloud.racing/*
 *://*.gxbrowser.net/*
 
-# --[ Websocket blocking ]------------------------------
+! --[ Websocket blocking ]------------------------------
 
 wss://*.coin-hive.com/proxy*
 wss://*.coinhive.com/proxy*
